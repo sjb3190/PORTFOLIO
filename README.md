@@ -11,6 +11,7 @@
   
 ### :computer: 개요
 ---
+<img src="https://github.com/sjb3190/Ptoject-B/assets/143733603/c2a91a62-234f-4e11-8f24-bec1bfa08b11" width="500" height="500"/>
 <br>
 <br>
 <br>
