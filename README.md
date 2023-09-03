@@ -11,7 +11,14 @@
   
 ### :computer: 개요
 ---
-<img src="https://github.com/fightmeat/TIL/assets/139725409/556c3f4b-93ec-40ca-a516-f19eedb7ebc3.png" width="900" height="1100"/><br><br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
 
 > **프로젝트**: 개인 포트폴리오 사이트<br><br>
 > **기획 및 제작**: 이승훈<br><br>
