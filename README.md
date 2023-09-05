@@ -80,7 +80,7 @@ if __name__ == "__main__":
 <br>
 
 <details>
-<summary>여기를 눌러주세요</summary>
+<summary>more about me</summary>
 <div markdown="1">       
 
 |**엄**|준|식|
